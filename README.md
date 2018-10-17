@@ -1,4 +1,5 @@
-# swc-example-manuel-somethingelse
+# swc-example-manuel-collaboration
+
 An example project for the git-lesson of EMBL Software Carpentry.
 
 Quick Markdown Overview
